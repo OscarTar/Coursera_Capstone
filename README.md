@@ -5,4 +5,4 @@ One of the major pitfalls before venturing on a project/starting business is not
 
 _Data_
 
-We will be using geospatial data of the Toronto area to first cluster them into different boroughs using K-means cluster method. After this we will be using the Foursquare API location data to gather restaurant cuisines in different neighbourhoods.  There after we can explore the most common restaurants in every neighborhood contained within each cluster.
+We will be using geospatial data of the Toronto area (to extract the boroughs, neighborhoods, latitude, longitude data) to first cluster them into different boroughs using K-means cluster method. After this we will be using the Foursquare API location data to gather restaurant cuisines in different neighbourhoods.  There after we can explore the most common restaurants in every neighborhood contained within each cluster.
